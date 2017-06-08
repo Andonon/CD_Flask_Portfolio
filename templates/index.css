@@ -12,6 +12,12 @@
     padding: 0px;
     font-family: 'Open Sans', sans-serif;
 }
+wrapper {
+    height: 800px;
+    width: 800px;
+    margin: 20px;
+    background-image: linear-gradient(45 deg, grey, white);
+}
 footer {
     margin-top: 100px;
     text-align: center;
