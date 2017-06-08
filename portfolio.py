@@ -8,7 +8,7 @@ app = Flask(__name__)
 @app.route('/')
 
 def homepage():
-    return render_template('portfolio.html')
+    return render_template('index.html')
 
 @app.route('/projects')
 
